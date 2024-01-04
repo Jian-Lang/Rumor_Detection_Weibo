@@ -1,0 +1,2 @@
+一凡的模型的结果，非mlp的结果
+文本 + comment，comment没有做任何筛选
